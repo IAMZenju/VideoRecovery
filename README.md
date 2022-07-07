@@ -63,8 +63,11 @@ If the file isn't playable it might be because the file type is unsupported, the
 -------------------------------------------------------------------------------------
 
 ►TWITCH: https://www.twitch.tv/IAMZenju
+
 ►Facebook: https://fb.gg/IAMZenjuGG
+
 ►Instagram: @IAMZenju
+
 ►Twitter: @IAMZenju_TWT
 
 -----------------------------------------------------------------------------------------------
