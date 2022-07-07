@@ -62,13 +62,13 @@ If the file isn't playable it might be because the file type is unsupported, the
 #filerecovery #mp4 #corruptvideo
 -------------------------------------------------------------------------------------
 
-►TWITCH: https://www.twitch.tv/IAMZenju
+►TWITCH: [@IAMZenju](https://www.twitch.tv/IAMZenju)
 
-►Facebook: https://fb.gg/IAMZenjuGG
+►Facebook: [@IAMZenjuGG](https://fb.gg/IAMZenjuGG)
 
-►Instagram: @IAMZenju
+►Instagram: [@IAMZenju](https://www.instagram.com/iamzenju/)
 
-►Twitter: @IAMZenju_TWT
+►Twitter: [@IAMZenju_TWT](https://twitter.com/IAMZenju_TWT)
 
 -----------------------------------------------------------------------------------------------
 
