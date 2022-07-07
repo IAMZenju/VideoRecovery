@@ -8,8 +8,11 @@ FILE - https://www.videohelp.com/software?d=recover_mp4_192.zip
 ✅Step 2:
 
 Download ffmpeg Tool (ffmpeg-3.4.1): 
+
 FILE for Win64 (common)  - https://www.videohelp.com/software?d=ffmpeg-3.4.1-win64-static.zip
+
 or
+
 FILE for Win32 (slower)  -  https://www.videohelp.com/software?d=ffmpeg-3.4.1-win32-static.zip
 
 For Reference:
